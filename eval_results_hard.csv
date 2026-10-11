@@ -1,0 +1,25 @@
+arxiv_id,title,question,rank
+2607.18626v1,PLAID-PRF: Pseudo-Relevance Feedback with Centroid-like Tokens in PLAID,How can a search engine get better at finding relevant results by learning from its own top hits without slowing down?,
+2607.28124v1,Information Bottleneck Learning for Faithful Time Series Forecasting Explanations,"How can I tell which past readings actually drove a forecast, without losing accuracy?",
+2607.24312v1,CONSISTRE: A Unified Consistency-Aware Framework for Document-Level Relation Extraction with Large Language Models,How can I make an AI's answers about relationships between people or companies in a long document more logically consistent?,
+2607.18213v1,SWE-Pruner Pro: The Coder LLM Already Knows What to Prune,How can an AI coding assistant handle long tool outputs without wasting so much memory and cost?,1.0
+2607.28877v1,Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair,Can an AI tool automatically fix hardware chip design bugs and mathematically prove the fixes are correct?,1.0
+2608.03223v1,Agentic Reinforcement Learning with Self-Distilled Reward Shaping,How can an AI agent learn which of its individual steps actually led to success when it only gets feedback at the end of a task?,
+2608.01481v1,Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval,How can a brain scanner's recordings of what someone heard be used to figure out which sounds were heard?,5.0
+2607.24035v1,"Beyond Local Inspection: Global, Guideline-Grounded Evaluation of Post-hoc XAI Methods for ECG Classification",How can I tell whether an AI heart-scan reader is actually looking at the right parts of the heartbeat?,1.0
+2607.29000v1,PaletteID: Prototype-Composed Semantic Identifiers for Multimodal CTR Prediction,"How can a recommendation system better predict what users will click, especially for new or rarely seen items?",
+2607.24904v1,Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model,How can AI watch live video more efficiently without processing every frame in full detail?,1.0
+2607.12612v1,Translation as a Computationally Efficient Bridge: Feasibility of English BERT for Low-Resource Languages,Can I translate non-English text into English and still get good results from language AI models?,2.0
+2608.01428v1,When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents,"Why do AI robots that keep replanning sometimes respond too slowly, even when they still finish their tasks?",
+2608.05892v1,Alternating Levenberg-Marquardt Training of Physics-Informed Neural Networks with Fourier-Enhanced Features,"Why do neural networks struggle to solve equations with rapidly oscillating or highly nonlinear behavior, and can a new training method fix that?
+
+Wait, that exceeds the word limit and uses some technical framing. A shorter version:
+
+How can a neural network accurately solve physics equations with rapidly changing, wiggly solutions?",5.0
+2608.00994v1,Entity-Faithful Repair of Synthetic Supervision for Zero-Shot Image Captioning,How can I make AI-written image descriptions more accurate without needing human-labeled photos?,5.0
+2607.24720v1,The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation,"How can AI agents be trained to plan well over many steps, and which training methods work best?",
+2608.03984v1,"string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms","Is there a free website that lets me compare how similar two pieces of text or DNA sequences are, right in my browser?",1.0
+2607.24960v1,"Fast, accurate, and differentiable: a neural-network surrogate for NRSur7dq4 precessing binary black hole waveforms",How can computer models that predict gravitational wave signals from spinning black hole collisions be made much faster?,1.0
+2607.27995v1,Generalization and Trade-off in Adversarial Training: An RKHS Perspective via Kernel Integral Operators,"How can training AI models to resist tricky manipulated inputs make them less accurate overall, and can that be fixed?",
+2608.00107v1,MetaRoute-Bench: Evaluating Meta-Decision Policies for Agentic Workflow Routing,"How can I tell whether an AI agent's choices about when to search, delegate, or check its own work are actually worth the extra time and cost?",5.0
+2607.11166v1,Query-Focused Event Summarization: A Dataset and Benchmark,How can I get a summary of a large collection of news articles about one event that focuses on a specific question I have?,1.0
